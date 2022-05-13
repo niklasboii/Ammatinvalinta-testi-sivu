@@ -72,12 +72,7 @@ body {
       padding : 10px 10px 15px 10px;
       }
     
-    #kysymys {
-      display: grid;
-      grid-template-columns: auto auto auto;
-      grid-template-rows: auto auto auto;
-      justify-content: space-around;
-      gap: 15px;
+    #container {
       background-color: #666565;
       padding: 20px;
       border-radius: 10px;
