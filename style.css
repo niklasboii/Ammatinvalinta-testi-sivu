@@ -77,6 +77,14 @@ body {
       grid-template-columns: auto auto auto;
       background-color: #333;
       padding: 10px;
+      justify-content: space-around;
+      gap: 15px;
+    }
+    .jesus {
+    background-color: #666565;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 5px;
     }
     #kysymys [type=radio] {
       position: absolute;
